@@ -154,7 +154,7 @@ const dataKelas7 = [
     {
         id: "k7-b3",
         kelas: "KELAS VII",
-        judulArab: "أَطَوَاتُ الْمَدْرَسَةِ وَاللَّوْنُ",
+        judulArab: "أَدَوَاتُ الْمَدْرَسَةِ وَاللَّوْنُ",
         judulLatin: "Al-Adawat Al-Madrasiyyah wal Laun (Peralatan Sekolah & Warna)",
         kosakata: [
             { arab: "قَلَمٌ", latin: "Qalamun", arti: "Pena / Pulpen", kategori: "Alat Sekolah" },
